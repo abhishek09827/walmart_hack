@@ -1,0 +1,11 @@
+0 Bag
+1 banana
+2 bathroom cleaner
+3 coke
+4 dettol
+5 dishwasher detergent
+6 eggs 
+7 hammer
+8 headphone
+9 soap
+10 shoe
